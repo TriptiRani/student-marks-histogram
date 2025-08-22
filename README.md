@@ -27,17 +27,6 @@ This project uses **Python (pandas, NumPy, matplotlib)** to:
 ## 📂 Project Structure
 
 
----
-
-## 📷 Sample Visualizations
-### Overall Marks Distribution
-![Overall Histogram](outputs/hist_overall.png)
-
-### Pass/Fail Comparison
-![Pass Fail](outputs/pass_fail_bar.png)
-
----
-
 ## 📊 Key Insights
 - Overall average and median marks calculated  
 - Pass rate identified (threshold = 40)  
